@@ -40,9 +40,10 @@
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/your-linkedin/)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=fff)](mailto:your.email@iiitu.ac.in)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=fff)](https://twitter.com/your-twitter)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](www.linkedin.com/in/aditya-kumar-goyal-1a631328a)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=fff)](mailto:your.adityakumargoyal06@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=fff)](https://x.com/Aditya903282713
+)
 
 ---
 
