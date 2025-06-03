@@ -40,7 +40,7 @@
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](www.linkedin.com/in/aditya-kumar-goyal-1a631328a)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/aditya-kumar-goyal-1a631328a)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=fff)](mailto:your.adityakumargoyal06@gmail.com)
 [![X](https://img.shields.io/badge/-X-000000?logo=x&logoColor=white)](https://x.com/Aditya903282713
 )
