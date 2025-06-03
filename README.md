@@ -33,8 +33,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya100905&show_icons=true&theme=radical" alt="Aditya's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya100905&theme=radical" alt="Aditya's GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Aditya100905&theme=radical" alt="Aditya's GitHub streak"/>
 </p>
+
 
 ---
 
