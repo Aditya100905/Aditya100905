@@ -1,20 +1,20 @@
-# 👋 Hi there, I'm Aditya!
+# Hi there, I'm Aditya!
 
-🎓 **CSE Undergrad at IIIT Una (2023-27)**  
-🌄 Based in Himachal Pradesh, India
-
----
-
-## 🚀 About Me
-
-- 🖥️ Passionate about **Web Development**
-- 📈 Exploring the world of **Data Science**
-- 🤝 Love collaborating on open source projects
-- ⚡ Always eager to learn and take on new challenges
+**CSE Undergrad at IIIT Una (2023-27)**  
+Based in Himachal Pradesh, India
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+- Passionate about **Web Development**
+- Exploring the world of **Data Science**
+- Love collaborating on open source projects
+- Always eager to learn and take on new challenges
+
+---
+
+## Tech Stack
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=fff)
@@ -29,7 +29,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Aditya100905&show_icons=true&theme=radical&hide_border=true" alt="Aditya's GitHub stats" width="48%"/>
@@ -42,7 +42,7 @@
 
 ---
 
-## 📫 Connect with me
+## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/aditya-kumar-goyal-1a631328a)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:adityakumargoyal06@gmail.com)
@@ -54,5 +54,5 @@
 
 > *"Code is like humor. When you have to explain it, it's bad."* – **Cory House**
 
-⭐️ **Thanks for visiting my GitHub!**
+**Thanks for visiting my GitHub!**
 </div>
