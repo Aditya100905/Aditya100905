@@ -46,7 +46,7 @@ Based in Himachal Pradesh, India
     </td>
     <td align="center">
       <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/50/000000/database.png" width="40" height="40" alt="SQL"/>
+     <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-sql-coding-and-development-flat-flat-juicy-fish.png" width="50" height="50" alt="SQL"/>
         <br/><sub>SQL</sub>
       </a>
     </td>
@@ -73,7 +73,7 @@ Based in Himachal Pradesh, India
     </td>
     <td align="center">
       <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" alt="Tailwind CSS"/>
+        <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="50" height="50" alt="Tailwind CSS"/>
         <br/><sub>Tailwind</sub>
       </a>
     </td>
