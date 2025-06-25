@@ -133,8 +133,12 @@ Based in Himachal Pradesh, India
 ## 📊 GitHub Stats
 
 <div align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=Aditya100905&show_icons=true&theme=radical&hide_border=true" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya100905&show_icons=true&theme=radical&hide_border=true" alt="Aditya's GitHub stats" width="48%"/>
+  </a>
+  <a href="https://streak-stats.demolab.com/?user=Aditya100905&theme=radical&hide_border=true" target="_blank">
   <img src="https://streak-stats.demolab.com/?user=Aditya100905&theme=radical&hide_border=true" alt="Aditya's GitHub streak" width="48%"/>
+  </a>
 </div>
 
 <div align="center">
